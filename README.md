@@ -26,6 +26,10 @@ O programa abre com uma tela de login — **o instalador é público, mas o aces
 Detalhes técnicos e metodologia do projeto: [PORTFOLIO.md](PORTFOLIO.md).
 *Technical details and project methodology: [PORTFOLIO.md](PORTFOLIO.md).*
 
+## Legal
+
+[Termos de Uso](TERMOS_DE_USO.md) · [Aviso de Privacidade](AVISO_DE_PRIVACIDADE.md)
+*[Terms of Use](TERMOS_DE_USO.md) · [Privacy Notice](AVISO_DE_PRIVACIDADE.md)*
 ---
 
 <div align="center">
