@@ -18,6 +18,11 @@
 Instalador para Windows disponível na aba [**Releases**](../../releases) deste repositório.
 *Windows installer available on this repository's [**Releases**](../../releases) page.*
 
+## Acesso
+
+O programa abre com uma tela de login — **o instalador é público, mas o acesso não é**: cada conta é criada manualmente por mim. Pra solicitar um login, [**abra uma Issue neste repositório**](../../issues/new) pedindo acesso.
+*The app opens behind a login screen — **the installer is public, but access isn't**: each account is created manually by me. To request a login, [**open an Issue on this repository**](../../issues/new) asking for access.*
+
 Detalhes técnicos e metodologia do projeto: [PORTFOLIO.md](PORTFOLIO.md).
 *Technical details and project methodology: [PORTFOLIO.md](PORTFOLIO.md).*
 
